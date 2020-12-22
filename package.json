@@ -1,0 +1,21 @@
+{
+  "name": "node-ttspico-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js server to serve audio from ttspico.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauthier-th/node-ttspico-server.git"
+  },
+  "keywords": [],
+  "author": "gauthier-th",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gauthier-th/node-ttspico-server/issues"
+  },
+  "homepage": "https://github.com/gauthier-th/node-ttspico-server#readme"
+}
